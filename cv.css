@@ -1,0 +1,36 @@
+img{
+    width: 270px;
+    height: 270px;
+    padding-right: 50px;
+
+}
+
+h3{
+    color: rgb(8, 110, 110);
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    margin-left: 1cm;
+    color: rgb(8, 110, 110);
+}
+
+
+
+p{
+    margin-left: 1cm;
+}
+
+.centertext {
+    text-align: center;
+    padding: -1px;
+    color: rgb(8, 110, 110);
+    
+}
+
+.tableback {
+background-color: rgb(8, 129, 129);
+width: 100%;
+color: rgb(253, 250, 250);
+}
