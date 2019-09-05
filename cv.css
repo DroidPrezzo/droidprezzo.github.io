@@ -59,7 +59,7 @@ input[type=email], email {
   box-sizing: border-box;
 }
 input[type=submit] {
-  background-color:rgb(8, 129, 129); 
+  background-color: rgb(8, 129, 129); 
   color: white;
   padding: 12px 20px;
   border: none;
