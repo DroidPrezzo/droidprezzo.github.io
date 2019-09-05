@@ -59,10 +59,14 @@ input[type=email], email {
   box-sizing: border-box;
 }
 input[type=submit] {
-  background-color:rgb(253, 250, 250); ;
+  background-color:rgb(253, 250, 250); 
   color: white;
   padding: 12px 20px;
   border: none;
   border-radius: 8px;
   cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
 }
