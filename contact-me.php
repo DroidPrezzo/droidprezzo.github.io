@@ -14,7 +14,8 @@ fclose($contactTxt);
 echo"Your Message has been received! I'll get back to you shortly"
 mail($to, $title_field, $content);
 }
-
+else {
+echo "blarg!"}
 
 
 
